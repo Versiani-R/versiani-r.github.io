@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"cssImports":{},"cssModules":{"/Users/dr4kk0nnys/Code/versiani-r/src/app/page":[]}}
