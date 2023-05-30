@@ -3,8 +3,7 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <div>
-      <div>Hello World</div>
-      <div>This is a test</div>
+      <div>Hello World! Made by Versiani</div>
     </div>
   )
 }
