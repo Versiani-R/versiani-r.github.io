@@ -1,7 +1,7 @@
 export default function Index() {
     return (
         <div>
-            Hello World
+            Hello World!
         </div>
     )
 }
