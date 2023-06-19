@@ -5,7 +5,10 @@ const nextConfig = {
         path: '',
     },
     assetPrefix: './',
-    output: 'export'
+    output: 'export',
+    images: {
+        unoptimized: true
+    }
 }
 
 module.exports = nextConfig

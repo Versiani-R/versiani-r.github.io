@@ -1,5 +1,7 @@
 import Head from "next/head"
 
+import 'public/global.css'
+
 export default function MyApp({ Component }: { Component: any }) {
     return (
         <div>
@@ -15,6 +17,7 @@ export default function MyApp({ Component }: { Component: any }) {
             <main>
                 <Component />
             </main>
+
         </div>
     )
 }
