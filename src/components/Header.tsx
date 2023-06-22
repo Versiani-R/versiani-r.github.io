@@ -6,9 +6,9 @@ import { MdLocationPin, MdWebAsset } from 'react-icons/md'
 
 const Header = () => {
     return (
-        <div>
+        <div className="pb-10">
             <div className="flex w-full h-full relative">
-                <div className="w-1/5 h-48 relative">
+                <div className="w-1/6 h-48 relative">
                     <Image src={'IMG_9651.JPG'} alt="Profile Picture" fill className="rounded-full object-cover object-center border-2" style={{ objectPosition: '45%' }} />
                 </div>
 
